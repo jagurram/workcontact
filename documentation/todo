@@ -1,0 +1,3 @@
+- mettre en place la verification de la bonne insertion/delete en base de donnée tel que mise en place pour employee/create
+- mettre en place les flash session
+- mettre en place des class static
